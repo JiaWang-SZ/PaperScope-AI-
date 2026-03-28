@@ -22,3 +22,8 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Runtime data files
+data/config_store.json
+data/data_store.json
+data/uploads/
